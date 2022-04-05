@@ -467,6 +467,9 @@ $ diff out/allocations-mainnet.csv allocations-mainnet.csv
 $ diff out/allocations-gchain.csv allocations-gchain.csv 
 ```
 
+Furthermore, we have supplied the [sha hashes](./sha256sum.txt) 
+of each file generated that can use to compare.
+
 Note that every file in this repo runs as a standalone script for its intended purpose.
 For example, to fetch GNO token holders run
 
