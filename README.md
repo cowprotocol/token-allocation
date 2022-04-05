@@ -1,5 +1,4 @@
-!!! **ATTENTION - THIS REPO HAS BEEN ARCHIVED - ALL FUTURE DEVELOPMENT WILL OCCUR HERE: https://github.com/cowprotocol/token-allocation** !!!
-
+!!! THIS REPO HAS BEEN ARCHIVED (no longer undergoing active development)!!!
 
 # Table of Contents
 
